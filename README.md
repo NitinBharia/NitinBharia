@@ -110,6 +110,8 @@ Sobhasaria Engineering College, Rajasthan Technical University · *2017 – 2021
 
 ---
 
+---
+
 ## 📬 Let's Connect
 
 I'm always open to connecting with people in tech, EdTech, and AI. Feel free to reach out!
