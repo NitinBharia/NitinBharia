@@ -98,20 +98,6 @@ Sobhasaria Engineering College, Rajasthan Technical University · *2017 – 2021
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitinBharia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinBharia&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
----
-
 ## 📬 Let's Connect
 
 I'm always open to connecting with people in tech, EdTech, and AI. Feel free to reach out!
